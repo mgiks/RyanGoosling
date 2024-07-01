@@ -1,1 +1,1 @@
-I was having a blast
+I was having a blast.
