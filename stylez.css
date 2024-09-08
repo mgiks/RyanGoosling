@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("/HTMLCSS/RyanGosling/pfp/movie-only-god-forgives-ryan-gosling-wallpaper-preview.jpg");
+    background-image: url("images/background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -24,8 +24,7 @@ header {
     padding: 14px;
 }
 
-nav,
-section {
+nav, section {
     display: flex;
     align-items: center;
     gap: 14px;
@@ -57,7 +56,7 @@ main {
     justify-content:center;
     gap:24px;
     padding: 0 14px;
-    
+
 }
 
 .headerText {
@@ -80,7 +79,7 @@ main {
 
 .search:hover {
     border-color: transparent;
-    background: url("/HTMLCSS/RyanGosling/pfp/220x330\ \(2\).jpg");
+    background: url("images/search.jpg");
 }
 
 input {
@@ -175,7 +174,7 @@ footer section a {
 }
 
 .searchButtonsContainer button{
-    background-image: url('/HTMLCSS/RyanGosling/pfp/7c0e8u\ \(5\).png');
+    background-image: url("/images/button.png");
     background-position: center;
 }
 
